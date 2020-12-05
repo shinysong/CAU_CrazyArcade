@@ -1,7 +1,7 @@
 # CAU_CrazyArcade  
 ## 게임소개  
 조원 : 김윤하, 송채은  
-본 게임은 C++과 방탈라이브러리(https://cafe.naver.com/bangtal)를 사용하여 크레이지아케이드 게임을 1인용으로 만든 게임입니다.  
+본 게임은 C++과 방탈라이브러리(https://cafe.naver.com/bangtal) 를 사용하여 크레이지아케이드 게임을 1인용으로 만든 게임입니다.  
 게임 플레이 영상은 [YOUTUBE](https://youtu.be/rajoXgioej0)에서 보실 수 있습니다.  
 
 ### 게임시작
